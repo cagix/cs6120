@@ -2,16 +2,14 @@ base_url = "https://www.cs.cornell.edu/courses/cs6120/2025sp"
 compile_sass = true
 build_search_index = false
 
-generate_feed = true
-feed_filename = "rss.xml"
-
-highlight_code = true
-highlight_theme = "subway-madrid"
+generate_feeds = true
 
 title = "CS 6120"
 
 [markdown]
 smart_punctuation = true
+highlight_code = true
+highlight_theme = "subway-madrid"
 
 [extra]
 favicon = "/img/favicon.ico"

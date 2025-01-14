@@ -230,9 +230,9 @@ Occasional multi-star work yields an A+, and missing stars leads to incrementall
 
 ## Policies
 
-### Non-PhD Enrollment
+### Non-PhD/MS Enrollment {#enroll}
 
-CS 6120 is for PhD students.
+CS 6120 is for PhD & MS students.
 If that doesn't describe you, you can still apply to take the course.
 Write short answers to these two questions:
 
@@ -240,11 +240,16 @@ Write short answers to these two questions:
 2. Why do you want to take the course?
 
 Submit your responses as a one-page PDF to Adrian via [Zulip][].
-Please do this after the first class session, so you have some context about the course, and before the second (i.e., by August 24, 2023).
-I will approve your application via Zulip, and then you can ask [the registration office][reg] to enroll you.
-The registration office would appreciate it if you add yourself to the waitlist before contacting them, but I think this is not strictly necessary.
+Please do this after the first class session, so you have some context about the course, and before the second (i.e., by January 23, 2025).
+If you miss that deadline, I would strongly prefer that you do not try to add the course.
+I will approve your application via Zulip.
+Then, in about 2 working days, the CIS registration office will send you a PIN to enroll.
 
-[reg]: mailto:courses@cis.cornell.edu
+If you have questions about the PIN system, you can [file a request with the CIS registration office][reg-ticket].
+But they have asked me to convey that you should not file a ticket merely to ask, "Adrian has approved me; may I please have a PIN?"
+I will send them a list of people who can enroll, and then there is nothing for you to do but wait.
+
+[reg-ticket]: https://tdx.cornell.edu/TDClient/193/Portal/Home/
 
 ### Academic Integrity
 

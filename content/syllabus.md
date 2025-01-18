@@ -233,7 +233,7 @@ Occasional multi-star work yields an A+, and missing stars leads to incrementall
 ### Non-PhD/MS Enrollment {#enroll}
 
 CS 6120 is for PhD & MS students.
-If that doesn't describe you, you can still apply to take the course.
+If that doesn't describe you, you can still apply to add the course during the add/drop period.
 Write short answers to these two questions:
 
 1. What is CS 6120 about?

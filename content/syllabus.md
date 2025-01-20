@@ -95,9 +95,44 @@ Another part of 6120 is reading and discussing research papers.
 Every time we read a paper (see the [schedule][]), everybody participates in the discussion in two ways:
 through [GitHub Discussions][gh-disc] threads before class,
 and then synchronously in class.
-For every paper, there will be a Discussions topic; post at least one message there with your thoughts on the paper before the class period with the discussion.
-Your comment need not be long at all; just a couple of sentences is fine.
-And it need not be a top-level post; I encourage you to respond to other people's thoughts on the thread.
+Someone will take on the role of the discussion leader for both components.
+
+### Before Class
+
+For every paper, the leader will create a GitHub Discussions topic; post at least one message there with your thoughts on the paper before the class period with the discussion.
+You can either start your own top-level subthread or respond to someone else's.
+
+Your comment must include both of these elements (and anything else you want to say):
+
+* Some **critique** of the paper: your own thoughts that expand on some element in the paper. While "critique" may have negative connotations, this does not need to be negative: extrapolations that express appreciation, curiosity, or just technical extensions also count.
+* At least one **discussion question** that you would like to address synchronously with the class. For examples of good and bad discussion questions, see [Lindsey Kuper's instructions for UCSC's CSE290S][290s-questions].
+
+Comments are due **at 10pm on the day before the discussion** so the leader has a chance to look before class.
+
+[290s-questions]: https://decomposition.al/CSE290S-2023-01/course-overview.html#how-to-write-discussion-questions
+
+### In Class
+
+Discussion days have three phases:
+
+1. Discussion lead's overview and questions: 10 minutes.
+2. Small-group discussion: 30 minutes.
+3. Full-class discussion: 30 minutes.
+
+The first phase is a short (slides-free) overview that distills the online discussion so far and poses the discussion questions we'll be using.
+
+In the second phase, we'll divide into randomly assigned groups of 3--4 people.
+Each group will do these things:
+
+* Introduce yourselves.
+* Talk about the selected discussion questions.
+* Try to reach consensus on the group's answers.
+* Prepare to present these answers to the full class.
+
+In the third phase, the leader will moderate a full-class discussion on each of the questions.
+Each small group will report their answers in 3 minutes or less, and then we'll try to reach a broader consensus on the questions.
+
+### Leading the Discussion
 
 For some subset of the papers, you will be the discussion leader!
 Leaders have three extra responsibilities:
@@ -113,13 +148,16 @@ and synthesizing some ideas into a blog post after the fact.
 
 * Watch the GitHub Discussions thread for your topic.
   Answer any questions you can, offer extra insight when you have it, and so on.
-* Collect a list questions for the in-class discussion.
-  You can write your own or steal the best from the online discussion.
+* Select the 2--3 questions you will use for the in-class discussion.
 
 *On* the discussion day:
 
-* Moderate a short discussion.
-  There is no presentation component to the discussion—just set up enough background to get to the discussion questions and help move the conversation along.
+* Briefly present an overview of the asynchronous discussion.
+  **This is not a presentation about the content of the paper, which everyone has already read.**
+  Instead, your job is to distill key points from the asynchronous discussion and to list your selected discussion questions for the day.
+  **Do prepare slides, and do not use more than 10 minutes.**
+  You can project the paper itself if you need visual aids, and display your questions using a text editor or something.
+* Moderate the full-class discussion phase.
 
 Due *one week after* the discussion day:
 
@@ -134,7 +172,7 @@ Due *one week after* the discussion day:
     Feel free to incorporate the best ideas you heard during the online and in-class discussion.
     You can represent your own opinions, ones from the class as a whole, or both.
 
-    While the second item above entails recapping some of the paper, please resist the temptation to let direct summary make up the bulk of your blog post. Keep this kind of technical explanation under around a quarter of the length. (To make this work, you will need to prioritize breadth over depth in your summary, and you'll have to pick and choose specific contributions to highlight instead of hoping to convey the entire paper.)
+    While the second item above entails recapping some of the paper, **please resist the temptation to let direct summary make up the bulk of your blog post**. Keep this kind of technical explanation under around a quarter of the length. (To make this work, you will need to prioritize breadth over depth in your summary, and you'll have to pick and choose specific contributions to highlight instead of hoping to convey the entire paper.)
 
     Focus most of your writing on your own commentary: context, criticism, and discussion. To emphasize this focus, consider choosing a title for your blog post that is not the title of the paper---instead, it should reflect the main point *you want to make* about the paper.
 

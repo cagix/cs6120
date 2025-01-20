@@ -29,7 +29,7 @@ Check the [schedule][] for each day of class—it will fall into one of two cate
 * *"Lesson" days:*
   Before class, optionally watch the video and/or do any associated reading.
   The video covers approximately the same stuff as we'll talk about in class.
-  The class may also include a quiet hacking session and an opportunity to ask questions and work together with the rest of the class on [implementation tasks](#implementation-tasks).
+  The class may also include a quiet hacking session and an opportunity to ask questions and work together with the rest of the class on [implementation tasks](#tasks).
 * *"Discussion" days:*
   Before class, do the (required) reading and answer the (required) discussion questions on the associated GitHub Discussions thread.
   We will discuss the reading synchronously.
@@ -40,19 +40,25 @@ Check the [schedule][] for each day of class—it will fall into one of two cate
 
 There are four kinds of things that make up the coursework for CS 6120.
 
-* *Implementation tasks:*
+* [*Implementation tasks:*](#tasks)
   Discrete bits of compiler implementation work to deepen your understanding of the topics in the [lessons][].
-* *Paper reading:*
+* [*Paper reading and discussion:*](#papers)
   We'll read research papers, and everybody will participate in asynchronous (pre-class, online) discussions and synchronous (in-class) discussions.
 * *Leading paper discussions:*
   For a subset of the aforementioned research papers, you'll be responsible for leading the online and synchronous discussion and synthesizing a [blog][] post.
-* *Course project:*
+* [*Course project:*](#project)
   There is an open-ended course implementation project that culminates in a blog post.
+
+If you are considering whether to enroll in this class,
+please think carefully about whether all of these forms of work appeal to you.
+Some examples of work styles that some people don't like include writing blog posts for a general audience and organized
+small-group discussions.
 
 [lessons]: @/lesson/_index.md
 [blog]: @/blog/_index.md
 
-### Implementation Tasks
+
+## Implementation Tasks {#tasks}
 
 To reinforce the specific compiler techniques we learn about in class, you will work on implementing them on your own.
 The usual pattern is that we will come up with the high-level idea and the pseudocode in lessons; your job is to turn it into real, working code and collect empirical evidence that it's working.
@@ -82,7 +88,8 @@ You are an adult, presumably, and can control your own impulse to skip the hard 
 
 [bench]: https://capra.cs.cornell.edu/bril/tools/bench.html
 
-### Paper Reading & Discussion
+
+## Paper Reading & Discussion {#papers}
 
 Another part of 6120 is reading and discussing research papers.
 Every time we read a paper (see the [schedule][]), everybody participates in the discussion in two ways:
@@ -142,7 +149,8 @@ Due *one week after* the discussion day:
 [gh-disc]: https://github.com/sampsyo/cs6120/discussions
 [gh-disc-reading]: https://github.com/sampsyo/cs6120/discussions/categories/reading
 
-### Project
+
+## Project {#project}
 
 At the end of the course, you'll do a language implementation research project.
 This is an open-ended and open-source project that can be on any topic that you can construe as being about compiler hacking.
@@ -150,7 +158,7 @@ The final product is an experience report on the [course blog][blog] where you r
 
 You can work individually or in groups of 2–3 people.
 
-#### Proposal
+### Proposal
 
 The first deadline is the project proposal.
 [Open a GitHub issue][proposal] answering these three questions, which are a sort of abbreviated form of the [Heilmeier catechism][hc]:
@@ -167,7 +175,7 @@ The instructor will have feedback on how to approach your project.
 [hc]: https://www.darpa.mil/work-with-us/heilmeier-catechism
 [proposal]: https://github.com/sampsyo/cs6120/issues/new?labels=proposal&template=project-proposal.md&title=Project+%5BNUMBER%5D+Proposal%3A+%5BTITLE%5D
 
-#### Implementation
+### Implementation
 
 The main phase, of course, is implementing the thing you said you would implement.
 I recommend you keep a “lab notebook” to log your thoughts, attempts, and frustrations—this will come in handy for the report you'll write about the project.
@@ -179,7 +187,7 @@ When you create your repository, comment on your proposal GitHub issue with a li
 
 [osi]: https://opensource.org/licenses
 
-#### Evaluation
+### Evaluation
 
 A major part of your project is an empirical evaluation.
 To design your evaluation strategy, you will need to consider at least these things:
@@ -195,7 +203,7 @@ Consider the [SIGPLAN empirical evaluation guidelines][eeg] when you design your
 
 [eeg]: https://www.sigplan.org/Resources/EmpiricalEvaluation/
 
-#### Experience Report
+### Experience Report
 
 For the main project deadline, you will write up the project’s outcomes in the form of a post on the [course blog][blog].
 Your writeup should answer these questions in excruciating, exhaustive detail:

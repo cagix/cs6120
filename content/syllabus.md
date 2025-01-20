@@ -87,7 +87,12 @@ Past 6120 students have open-sourced their implementations; you may not use this
 I recommend not looking at my or others' implementations at all while working on tasks, so you actually learn how to do it---but it's not hiding if you absolutely need it.
 You are an adult, presumably, and can control your own impulse to skip the hard work.
 
+If you're willing, I'm seeking volunteers to track the time they spend on each task.
+You would use something like [Toggl][] to set a separate timer for each assignment, and tell me the total number of minutes you spent on each one.
+This will help me calibrate the time allotted for 6120 tasks in future offerings.
+
 [bench]: https://capra.cs.cornell.edu/bril/tools/bench.html
+[toggl]: https://toggl.com
 
 
 ## Paper Reading & Discussion {#papers}

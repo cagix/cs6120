@@ -114,6 +114,9 @@ leader = "TK"
 readings = ["denali"]
 
 [[classes]]
+lesson = 13
+
+[[classes]]
 lesson = 14
 
 [[classes]]

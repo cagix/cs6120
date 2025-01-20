@@ -37,6 +37,14 @@ readings = ["ball-larus"]
 [[classes]]
 lesson = 6
 
+[[classes]]
+lesson = 6
+
+[[classes]]
+title = "SSA"
+leader = "TK"
+readings = ["ssa-construct"]
+
 
 # LLVM.
 
@@ -98,34 +106,15 @@ leader = "TK"
 readings = ["tracemonkey"]
 
 
-# Synthesis.
-
-[[classes]]
-lesson = 13
+# Potpourri.
 
 [[classes]]
 title = "Superoptimization"
 leader = "TK"
-readings = ["super"]
-
-[[classes]]
-title = "Synthesis-Aided Compilers"
-leader = "TK"
-readings = ["chlorophyll"]
-
-
-# Parallelism.
+readings = ["denali"]
 
 [[classes]]
 lesson = 14
-
-
-# Potpourri.
-
-[[classes]]
-title = "Compiler Frameworks"
-leader = "TK"
-readings = ["mlir"]
 
 [[classes]]
 title = "Interactive Verification"

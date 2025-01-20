@@ -79,6 +79,7 @@ When you finish an implementation, do this:
     * Summarize what you did.
     * Explain how you know your implementation works---how did you test it? Which test inputs did you use? Do you have any quantitative results to report?
     * What was the hardest part of the task? How did you solve this problem?
+    * Do you think your work deserves a [Michelin star](#grading)?
 
 Do all your own work (with your group) on implementation tasks.
 I have sample implementations for many of the tasks in the 6120 GitHub repository; you may not use this code.
@@ -262,13 +263,16 @@ The repository README has instructions.
 
 ## Grading
 
-I will grade the four categories of coursework based on a [Michelin star][michelin] system:
+All four categories of work in CS 6120 use a [Michelin star][michelin] grading system:
 you should shoot for one star, indicating excellent implementation work, insightful participation, a thoughtful blog post, or a spectacularly successful project.
 Merely acceptable work will receive no stars, and extraordinary work can receive multiple stars.
 On [CMS][], all assignments are out of one point, indicating the number of stars.
 
 Consistently earning a Michelin star will get you an A for the course.
 Occasional multi-star work yields an A+, and missing stars leads to incrementally lower grades.
+
+For the [implementation tasks](#tasks) only, you will perform a self-assessment, i.e., your submission must include your own opinion about whether you deserve a Michelin star.
+I will take your opinion into account when assigning your grade.
 
 [michelin]: https://en.wikipedia.org/wiki/Michelin_Guide
 [cms]: https://cmsx.cs.cornell.edu/

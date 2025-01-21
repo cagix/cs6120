@@ -81,12 +81,12 @@ lesson = 11
 
 [[classes]]
 title = "GC & Reference Counting"
-leader = "Bryant Park, David Han"
+leader = "TK"
 readings = ["ugc"]
 
 [[classes]]
 title = "Fancy Memory Management"
-leader = "TK"
+leader = "Bryant Park, David Han"
 readings = ["mesh"]
 
 

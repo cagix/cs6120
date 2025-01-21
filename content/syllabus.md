@@ -28,7 +28,7 @@ Check the [schedule][] for each day of class—it will fall into one of two cate
 
 * *"Lesson" days:*
   Before class, optionally watch the video and/or do any associated reading.
-  The video covers approximately the same stuff as we'll talk about in class.
+  The video covers approximately the same stuff as we'll talk about in class, so don't sweat it.
   The class may also include a quiet hacking session and an opportunity to ask questions and work together with the rest of the class on [implementation tasks](#tasks).
 * *"Discussion" days:*
   Before class, do the (required) reading and answer the (required) discussion questions on the associated GitHub Discussions thread.

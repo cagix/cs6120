@@ -81,7 +81,7 @@ lesson = 11
 
 [[classes]]
 title = "GC & Reference Counting"
-leader = "TK"
+leader = "Bryant Park, David Han"
 readings = ["ugc"]
 
 [[classes]]

@@ -31,7 +31,7 @@ lesson = 5
 
 [[classes]]
 title = "Profiling"
-leader = "TK"
+leader = "Simon"
 readings = ["ball-larus"]
 
 [[classes]]
@@ -42,7 +42,7 @@ lesson = 6
 
 [[classes]]
 title = "SSA"
-leader = "TK"
+leader = "Max Fan (myf5)"
 readings = ["ssa-construct"]
 
 
@@ -53,7 +53,7 @@ lesson = 7
 
 [[classes]]
 title = "Automatic Verification"
-leader = "TK"
+leader = "Annabel Baniak"
 readings = ["alive"]
 
 
@@ -70,7 +70,7 @@ lesson = 10
 
 [[classes]]
 title = "Alias-Based Optimization"
-leader = "TK"
+leader = "Michael Xing"
 readings = ["tbaa"]
 
 
@@ -81,12 +81,12 @@ lesson = 11
 
 [[classes]]
 title = "GC & Reference Counting"
-leader = "TK"
+leader = "Ethan Gabizon, Parth Sarkar, Ernest Ng"
 readings = ["ugc"]
 
 [[classes]]
 title = "Fancy Memory Management"
-leader = "Mariia Soroka"
+leader = "Bryant Park, David Han, Mariia Soroka"
 readings = ["mesh"]
 
 
@@ -97,12 +97,12 @@ lesson = 12
 
 [[classes]]
 title = "Dynamic Languages"
-leader = "TK"
+leader = "Aditya Senthilnathan"
 readings = ["self"]
 
 [[classes]]
 title = "Tracing"
-leader = "TK"
+leader = "Ethan"
 readings = ["tracemonkey"]
 
 
@@ -110,7 +110,7 @@ readings = ["tracemonkey"]
 
 [[classes]]
 title = "Superoptimization"
-leader = "TK"
+leader = "Mark Barbone"
 readings = ["denali"]
 
 [[classes]]
@@ -121,5 +121,5 @@ lesson = 14
 
 [[classes]]
 title = "Interactive Verification"
-leader = "TK"
+leader = "Edmund"
 readings = ["compcert"]

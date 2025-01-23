@@ -70,7 +70,7 @@ lesson = 10
 
 [[classes]]
 title = "Alias-Based Optimization"
-leader = "TK"
+leader = "Michael Xing"
 readings = ["tbaa"]
 
 
@@ -81,12 +81,12 @@ lesson = 11
 
 [[classes]]
 title = "GC & Reference Counting"
-leader = "Ethan Gabizon"
+leader = "Ethan Gabizon and Parth Sarkar"
 readings = ["ugc"]
 
 [[classes]]
 title = "Fancy Memory Management"
-leader = "TK"
+leader = "Bryant Park, David Han"
 readings = ["mesh"]
 
 
@@ -97,12 +97,12 @@ lesson = 12
 
 [[classes]]
 title = "Dynamic Languages"
-leader = "TK"
+leader = "Aditya Senthilnathan"
 readings = ["self"]
 
 [[classes]]
 title = "Tracing"
-leader = "TK"
+leader = "Ethan"
 readings = ["tracemonkey"]
 
 

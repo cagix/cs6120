@@ -81,7 +81,7 @@ lesson = 11
 
 [[classes]]
 title = "GC & Reference Counting"
-leader = "Parth Sarkar"
+leader = "Ethan Gabizon and Parth Sarkar"
 readings = ["ugc"]
 
 [[classes]]

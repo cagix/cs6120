@@ -161,7 +161,7 @@ and synthesizing some ideas into a blog post after the fact.
 * Briefly present an overview of the asynchronous discussion.
   **This is not a presentation about the content of the paper, which everyone has already read.**
   Instead, your job is to distill key points from the asynchronous discussion and to list your selected discussion questions for the day.
-  **Do prepare slides, and do not use more than 10 minutes.**
+  **Do not prepare slides, and do not use more than 10 minutes.**
   You can project the paper itself if you need visual aids, and display your questions using a text editor or something.
 * Moderate the full-class discussion phase.
 

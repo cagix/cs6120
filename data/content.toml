@@ -31,7 +31,7 @@ lesson = 5
 
 [[classes]]
 title = "Profiling"
-leader = "Simon"
+leader = "Simon, Allen"
 readings = ["ball-larus"]
 
 [[classes]]
@@ -53,7 +53,7 @@ lesson = 7
 
 [[classes]]
 title = "Automatic Verification"
-leader = "Annabel Baniak"
+leader = "Annabel Baniak, Dev Patel (dp673), Katherine Wu"
 readings = ["alive"]
 
 
@@ -110,7 +110,7 @@ readings = ["tracemonkey"]
 
 [[classes]]
 title = "Superoptimization"
-leader = "Mark Barbone, Zihan Li"
+leader = "Mark Barbone, Zihan Li, Sam Breckenridge"
 readings = ["denali"]
 
 [[classes]]

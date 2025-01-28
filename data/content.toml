@@ -70,7 +70,7 @@ lesson = 10
 
 [[classes]]
 title = "Alias-Based Optimization"
-leader = "Michael Xing, Gerardo Teruel (gg525)"
+leader = "Michael Xing, Gerardo Teruel (gg525), Arnav Muthiayen"
 readings = ["tbaa"]
 
 

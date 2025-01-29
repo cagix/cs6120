@@ -31,7 +31,7 @@ lesson = 5
 
 [[classes]]
 title = "Profiling"
-leader = "Simon, Noah Schiff, Kabir Samsi"
+leader = "Simon, Noah Schiff, Kabir Samsi, Allen"
 readings = ["ball-larus"]
 
 [[classes]]
@@ -53,7 +53,7 @@ lesson = 7
 
 [[classes]]
 title = "Automatic Verification"
-leader = "Annabel Baniak, Dev Patel (dp673)"
+leader = "Annabel Baniak, Dev Patel (dp673), Katherine Wu, Stephanie"
 readings = ["alive"]
 
 
@@ -70,7 +70,7 @@ lesson = 10
 
 [[classes]]
 title = "Alias-Based Optimization"
-leader = "Michael Xing, Gerardo Teruel (gg525)"
+leader = "Michael Xing, Gerardo Teruel (gg525), Arnav Muthiayen"
 readings = ["tbaa"]
 
 
@@ -102,7 +102,7 @@ readings = ["self"]
 
 [[classes]]
 title = "Tracing"
-leader = "Ethan"
+leader = "Ethan, Tean Lai (tml95)"
 readings = ["tracemonkey"]
 
 
@@ -110,7 +110,7 @@ readings = ["tracemonkey"]
 
 [[classes]]
 title = "Superoptimization"
-leader = "Mark Barbone"
+leader = "Mark Barbone, Zihan Li, Sam Breckenridge"
 readings = ["denali"]
 
 [[classes]]

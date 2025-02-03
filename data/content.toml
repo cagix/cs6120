@@ -42,7 +42,7 @@ lesson = 6
 
 [[classes]]
 title = "SSA"
-leader = "Max Fan (myf5), Neel"
+leader = "Max Fan (myf5), Neel, Emmanuel Suarez Acevedo"
 readings = ["ssa-construct"]
 
 
@@ -121,5 +121,5 @@ lesson = 14
 
 [[classes]]
 title = "Interactive Verification"
-leader = "Edmund, Jonah Bernard"
+leader = "Edmund, Jonah Bernard, Mahmoud Elsharawy"
 readings = ["compcert"]
